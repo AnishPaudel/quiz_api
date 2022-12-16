@@ -1,0 +1,53 @@
+{
+    "name": "Quiz4",
+    "discription": "mulit and single",
+    "questions": [
+      {
+        "is_multi": true,
+        "options": [
+          {
+            "answer": "cycling",
+            "is_answer": true
+          },
+          {
+            "answer": "gaming",
+            "is_answer": true
+          },
+          {
+            "answer": "football",
+            "is_answer": true
+          },
+          {
+            "answer": "Bungi",
+            "is_answer": false
+          }
+  
+        ],
+        "mark": 3
+      },
+      {
+        "question": "What is the color of blue sky?",
+        "is_multi": false,
+        "options": [
+          {
+            "answer": "blue",
+            "is_answer": true
+          },
+          {
+            "answer": "yellow",
+            "is_answer": false
+          },
+          {
+            "answer": "mango",
+            "is_answer": false
+          },
+          {
+            "answer": "aaaa",
+            "is_answer": false
+          }
+  
+        ],
+        "mark": 1
+      }
+    ]
+  }

@@ -1,0 +1,54 @@
+{
+    "name": "Quiz4",
+    "discription": "mulit and single",
+    "questions": [
+      {
+        "question": "What are your hobbies???",
+        "is_multi": true,
+        "options": [
+          {
+            "answer": "cycling!",
+            "is_answer": true
+          },
+          {
+            "answer": "gaming!",
+            "is_answer": true
+          },
+          {
+            "answer": "football!",
+            "is_answer": true
+          },
+          {
+            "answer": "Bungi!!",
+            "is_answer": false
+          }
+  
+        ],
+        "mark": 3
+      },
+      {
+        "question": "What is the color of red sky??",
+        "is_multi": false,
+        "options": [
+          {
+            "answer": "red",
+            "is_answer": true
+          },
+          {
+            "answer": "orange",
+            "is_answer": false
+          },
+          {
+            "answer": "mango",
+            "is_answer": false
+          },
+          {
+            "answer": "aaaa",
+            "is_answer": false
+          }
+  
+        ],
+        "mark": 1
+      }
+    ]
+  }
